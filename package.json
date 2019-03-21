@@ -1,10 +1,9 @@
 {
   "name": "generate-bean",
   "main": "./lib/generate-bean",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This plug-in try to help developer generate JAVA-BEANS automoatically",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "generate-bean:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
